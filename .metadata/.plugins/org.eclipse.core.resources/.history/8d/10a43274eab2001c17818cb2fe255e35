@@ -1,0 +1,6 @@
+package com.aziz.produits.repos;
+
+import org.springframework.data.repository.JpaRepository;
+import com.nadhem.produits.entities.Produit;
+public interface ProduitRepository extends JpaRepository<Produit, Long> {
+}

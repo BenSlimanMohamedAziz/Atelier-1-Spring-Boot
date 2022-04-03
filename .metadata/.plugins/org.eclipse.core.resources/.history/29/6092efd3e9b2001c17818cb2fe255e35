@@ -1,0 +1,5 @@
+package com.aziz.produits.entities;
+
+public class Produit {
+
+}

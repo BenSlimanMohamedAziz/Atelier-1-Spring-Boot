@@ -1,0 +1,5 @@
+package com.aziz.produits.repos;
+
+public interface ProduitRepository {
+
+}
